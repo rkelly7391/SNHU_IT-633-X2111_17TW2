@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">The Acme Department Store</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Mobile_Shopping">Mobile Shopping</string>
+    <string name="Departments">Departments</string>
+    <string name="Specials">Specials</string>
+    <string name="Gift_Guide">Gift Guide</string>
+    <string name="Gift_Cards">Gift Cards</string>
+    <string name="Inventory_System">Inventory System</string>
+    <string name="Get_Directions">Get Directions</string>
+    <string name="Work_For_Us">Work For Us</string>
+    <string name="ContactUs">Contact Us</string>
+    <string name="Sales_and_Coupons">Sale Items &amp; Coupons</string>
+    <string name="Sales">Sale:</string>
+    <string name="Coupons">Coupons:</string>
+    <string name="Your_Shopping_Cart">Your Shopping Cart</string>
+    <string name="Check_Out">Check Out</string>
+    <string name="Remove_Current_Item">Remove Current Item</string>
+    <string name="Clear_Cart">Clear Cart</string>
+    <string name="Treadmill">Treadmill</string>
+    <string name="Roadrunner">Roadrunner</string>
+    <string name="Fox">Fox</string>
+    <string name="Piano">Piano</string>
+    <string name="Free_Shipping">Free Shipping</string>
+    <string name="Fifty_Percent_Off">50% off next Order</string>
+    <string name="TwentyFive_Percent_Off">25%off Treadmill</string>
+    <string name="Buy_One_Roadrunner_Get_One_Free">Buy one roadrunner get one free</string>
+    <string name="Cart">Cart</string>
+    <string name="First_Name">First Name</string>
+    <string name="Last_Name">Last Name</string>
+    <string name="Address">Address</string>
+    <string name="Email">Email</string>
+    <string name="Credit_Card">Credit Card</string>
+    <string name="CSV">CSV</string>
+    <string name="Phone">Phone</string>
+    <string name="Place_Order">Place Order</string>
+    <string name="Total">Total</string>
+    <string name="title_activity_ryan_test">ryanTest</string>
+
+
+</resources>

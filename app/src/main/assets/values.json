@@ -1,0 +1,19 @@
+{
+  "Treadmill":{
+    "value": 1500.00,
+    "discount": 1125.00
+  },
+  "Roadrunner":{
+    "value": 999.99,
+    "discount": 999.99
+  },
+  "Fox":{
+  "value": 500.25,
+  "discount": 500.25
+  },
+  "Piano": {
+    "value": 2000.99,
+    "discount": 2000.99
+  }
+
+}
